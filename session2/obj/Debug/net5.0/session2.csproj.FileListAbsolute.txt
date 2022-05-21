@@ -1,0 +1,16 @@
+/Users/abtin_cheg/Desktop/C#/session1/session2/bin/Debug/net5.0/session2
+/Users/abtin_cheg/Desktop/C#/session1/session2/bin/Debug/net5.0/session2.deps.json
+/Users/abtin_cheg/Desktop/C#/session1/session2/bin/Debug/net5.0/session2.runtimeconfig.json
+/Users/abtin_cheg/Desktop/C#/session1/session2/bin/Debug/net5.0/session2.runtimeconfig.dev.json
+/Users/abtin_cheg/Desktop/C#/session1/session2/bin/Debug/net5.0/session2.dll
+/Users/abtin_cheg/Desktop/C#/session1/session2/bin/Debug/net5.0/session2.pdb
+/Users/abtin_cheg/Desktop/C#/session1/session2/obj/Debug/net5.0/session2.csproj.AssemblyReference.cache
+/Users/abtin_cheg/Desktop/C#/session1/session2/obj/Debug/net5.0/session2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abtin_cheg/Desktop/C#/session1/session2/obj/Debug/net5.0/session2.AssemblyInfoInputs.cache
+/Users/abtin_cheg/Desktop/C#/session1/session2/obj/Debug/net5.0/session2.AssemblyInfo.cs
+/Users/abtin_cheg/Desktop/C#/session1/session2/obj/Debug/net5.0/session2.csproj.CoreCompileInputs.cache
+/Users/abtin_cheg/Desktop/C#/session1/session2/obj/Debug/net5.0/session2.dll
+/Users/abtin_cheg/Desktop/C#/session1/session2/obj/Debug/net5.0/refint/session2.dll
+/Users/abtin_cheg/Desktop/C#/session1/session2/obj/Debug/net5.0/session2.pdb
+/Users/abtin_cheg/Desktop/C#/session1/session2/obj/Debug/net5.0/session2.genruntimeconfig.cache
+/Users/abtin_cheg/Desktop/C#/session1/session2/obj/Debug/net5.0/ref/session2.dll
