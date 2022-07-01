@@ -22,7 +22,7 @@ System.Console.WriteLine("Destroy by Finalizer");
   }
     internal class Program
     {
-      public static CheckGarbageCollection(){
+      public static void CheckGarbageCollection(){
         GarbageTest objGarbageTest = new GarbageTest();
       }
         static void Main(string[] args)
